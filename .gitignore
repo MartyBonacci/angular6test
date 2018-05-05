@@ -36,3 +36,11 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+/.sync-config.cson
+/vendor
+/src/**/*.js
+/src/**/*.js.map
+/public_html/dist
+/public_html/index.html
+/webpack/target.js
